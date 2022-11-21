@@ -1,4 +1,3 @@
-package out.entities;
 
 import java.time.LocalDateTime;
 

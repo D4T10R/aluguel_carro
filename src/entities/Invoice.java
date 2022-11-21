@@ -1,4 +1,4 @@
-package out.entities;
+package entities;
 
 public class Invoice {
  

@@ -1,9 +1,9 @@
-package out.entities;
+package entities;
 
 public class Vehicle {
 
     // ATRIBUTOS
-    private String model;
+    protected String model;
     // ATRIBUTOS
 
     // CONSTRUTORES 
